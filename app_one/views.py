@@ -17,3 +17,5 @@ def edit(request, number):
 
 def destroy(request, number):
     return redirect("/")
+
+# def dummy function
